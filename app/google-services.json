@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811242937687",
+    "project_id": "duckker-17b98",
+    "storage_bucket": "duckker-17b98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811242937687:android:e3fa0d6eecc7f06daa7212",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811242937687-dbgsaa2dpqs1hp3g62646fb1r2mjpag8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "ffab27317fe18ce172faa7f91fd2f8f489bebf98"
+          }
+        },
+        {
+          "client_id": "811242937687-esd7aka51q2o5gbr2kn6jminvuhtk2lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8IrgLvai1yjwuCtTsqTZt2HaIR1iHhVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811242937687-esd7aka51q2o5gbr2kn6jminvuhtk2lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

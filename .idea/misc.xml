@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/drawable/button.xml" value="0.112" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.16" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.16" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.16" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.267" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/drawable/messagebackgroun.xml" value="0.2085" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/drawable/reciverchatdrawable.xml" value="0.2085" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/drawable/senderchatdrawable.xml" value="0.2085" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/Callfragment.xml" value="0.1" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/Chatfragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_chatactivity.xml" value="0.25794871794871793" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_otp.xml" value="0.264" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_otp_authentication.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_otpauthtication.xml" value="0.265625" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_profile.xml" value="0.265625" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_set_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_setprofile.xml" value="0.265625" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_specificchat.xml" value="0.265625" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_splash.xml" value="0.265625" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/activity_update_profile.xml" value="0.265625" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/callfragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/callfragmnet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/callsfragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/chatfragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/chatsfragmnet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/chatviewlayout.xml" value="0.265625" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/reciverchatlayout.xml" value="0.25" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/senderchatlayout.xml" value="0.25" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/statusfragment.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/layout/statusfragmnet.xml" value="0.24074074074074073" />
+        <entry key="..\:/Users/anonhake/AndroidStudioProjects/chatapp/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
